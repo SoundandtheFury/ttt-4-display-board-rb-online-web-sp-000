@@ -8,4 +8,4 @@ def display_board(board_entries[])
   puts "   |   |   "
 end
 
-display_board
+display_board()
